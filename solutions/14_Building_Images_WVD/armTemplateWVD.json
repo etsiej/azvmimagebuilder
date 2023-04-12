@@ -49,8 +49,8 @@
                 "type": "PlatformImage",
                     "publisher": "MicrosoftWindowsDesktop",
                     "offer": "windows-10",
-                    "sku": "20h1-ent",
-                    "version": "latest"
+                    "sku": "win10-22h2-ent",
+                    "version": "19045.2846.230329"
             },
             "customize": [
 
