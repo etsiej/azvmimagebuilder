@@ -41,7 +41,7 @@
 
             "vmProfile": 
                     {
-                    "vmSize": "B4ms",
+                    "vmSize": "Standard_B4ms",
                     "osDiskSizeGB": 127
                     },
         
